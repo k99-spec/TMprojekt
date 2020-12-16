@@ -11,4 +11,4 @@ Urządsenia na wyjściu
 
 -Buzer z generatorem 5V 
 
-Wraz manipulacją wartości na potencjometrze bedzię zmieniała się częstotliwość  dziwięku. Im  wartość rezystancji tym częściej gośnik będzie wydawał dźwięk.
+Wraz manipulacją wartości na potencjometrze bedzię zmieniała się częstotliwość  dziwięku. Im  wartość rezystancji tym częściej głośnik będzie wydawał dźwięk.
